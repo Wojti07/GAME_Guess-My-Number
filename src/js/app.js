@@ -56,7 +56,7 @@ document.querySelector(".check").addEventListener("click", function () {
 		document.querySelector('.message').textContent =
 		` GAME OVER !!! `;
 		document.querySelector('.score').textContent = 0;
-		}; 
+		};
 	*/
 });
 
